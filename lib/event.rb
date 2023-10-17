@@ -20,17 +20,4 @@ class User()
   def self.count
     return @@user_count
   end
-
-
-
-def sel
-
-
-
-
-
-
-
-
-
 end
